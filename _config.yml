@@ -1,14 +1,14 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
+title:             pushgerm Tech
+email:             mkk0618@gmail.com
+description:       기록을 남기기 위해 시작한 기술 블로그
 author:            Start Bootstrap
 baseurl:           ""
-url:               "http://blackrockdigital.github.io"
+url:               "http://pushgerm.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:
+github_username:   pushgerm
+facebook_username:
 
 # Build settings
 markdown:          kramdown
